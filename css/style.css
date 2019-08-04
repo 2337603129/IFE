@@ -1,0 +1,33 @@
+
+/*
+* @Author: Window
+* @Date:   2019-08-04 
+* @Last Modified by:   Window
+* @Last Modified time: 2019-08-04 
+*/
+*{
+   
+    padding: 0;
+}
+.d .be{
+    float: left;
+ 
+
+    }
+.c{
+ color: red;  
+ position: relative;
+ padding:0px;
+text-align: center;!
+
+}
+h2{
+    color:blue;
+
+}
+.d{
+    background-color:yellow;
+}
+.be{
+    background-color:pink;
+}
